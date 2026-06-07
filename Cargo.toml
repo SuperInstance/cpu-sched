@@ -1,0 +1,11 @@
+[package]
+name = "cpu-sched"
+version = "0.1.0"
+edition = "2021"
+description = "CPU scheduling algorithms: FCFS, SJF, Round Robin, Priority, Multilevel Queue with Gantt chart output"
+license = "MIT"
+repository = "https://github.com/SuperInstance/cpu-sched"
+keywords = ["cpu-scheduling", "round-robin", "sjf", "priority", "gantt"]
+categories = ["algorithms", "simulation"]
+authors = ["SuperInstance"]
+readme = "README.md"
